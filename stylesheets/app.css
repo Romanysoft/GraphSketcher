@@ -120,6 +120,9 @@ h3 {
   -ms-user-select: none;
   user-select: none;
 }
+.imageListWrapper ul {
+  list-style-type: none;
+}
 .release-downloads-header {
   margin-top: 30px;
 }
