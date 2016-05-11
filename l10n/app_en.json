@@ -79,6 +79,7 @@
         "list": [
             {
                 "version": "{{5.17}}",
+                "updateDate": "{{2016.05.08}}",
                 "zipList": [
                     {
                         "osUrl": "{{images/download/osx.png}}",
