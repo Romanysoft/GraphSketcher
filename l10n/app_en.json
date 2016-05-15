@@ -13,8 +13,10 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Terrific vector graphics creation tools.",
-        "BtnDownload": "Free Trial",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
+        "BtnBuyDescription": "$55.99 | Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
